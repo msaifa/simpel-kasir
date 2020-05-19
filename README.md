@@ -25,6 +25,13 @@ edit sesuai dengan url index aplikasi.
     $base_url = "http://localhost.yii/simple-kasir/" ;
 ```
 
+#### 4. Set-up database
+buat database baru dengan nama db_toko
+```sql
+    create database db_toko ;
+```
+export db_toko.sql ke database baru tersebut.
+
 ## Program Pendukung
 - Bootstrap Studio
 - Visual Studio Code
